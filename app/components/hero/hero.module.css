@@ -1,0 +1,24 @@
+.hero{
+    background: #800000;
+       
+      color: gold ;
+        }
+
+
+.h1{
+    text-align: center;
+    font-size: 45px;
+    font-family:'Courier New', Courier, monospace;
+    font-display: 'Courier New' ;
+    text-decoration: underline;
+    text-decoration-thickness: 3px;
+}
+
+.p{
+    text-align: center;
+    font-size: 35px;
+    padding-bottom: 25px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-display: 'Trebuchet MS';
+    
+}

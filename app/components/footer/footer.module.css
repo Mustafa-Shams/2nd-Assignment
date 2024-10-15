@@ -1,0 +1,21 @@
+.ul{
+    display: flex;
+    gap: 75px;
+    color: white;
+    font-size: 35px;
+    padding-top: 45px;
+    padding-left: 355px;
+    background-color: #008080;
+    
+    padding-bottom: 55px;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-display: Georgia ;
+    text-decoration: underline;
+    
+
+}
+
+.footer{
+    text-align: end;
+}
+
